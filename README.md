@@ -1,6 +1,6 @@
-# Documento di esempio - Docs Italia
+# Modello Aziende sanitarie locali (ASL)
 
-Descrizione scopo del documento.
+Documentazione tecnica e di progetto per il modello ASL di Designers Italia.
 
 # Dipendenze
 
