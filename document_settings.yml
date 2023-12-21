@@ -1,7 +1,8 @@
 --- 
 document: 
-  name: "Documento di prova"
-  short_name: doc-proca
-  description: "Descrizione"
+  name: "Modello Aziende sanitarie locali (ASL)"
+  description: "Documentazione tecnica e di progetto del modello ASL di Designers Italia. Scopri cos'è il modello, come usare le risorse disponibili e il processo di ricerca alla base della progettazione."
   tags:
-    - Docs Italia
+    - siti web
+    - design
+    - asl
