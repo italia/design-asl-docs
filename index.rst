@@ -1,18 +1,15 @@
-==================================
-Documento di esempio - Docs Italia
-==================================
+======================================
+Modello Aziende sanitarie locali (ASL)
+=======================================
 
-.. raw:: latex 
+.. highlights::
 
-   \makeatletter\@openrightfalse
-	\chapter{Introduzione}
-
-Descrizione scopo del documento.
+   Documentazione tecnica e di progetto per il modello ASL di Designers Italia.
 
 .. toctree::
    :maxdepth: 3
    :caption: Indice dei contenuti
    :numbered:
 
-   introduzione.rst  
+   introduzione.rst
    
