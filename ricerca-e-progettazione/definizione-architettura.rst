@@ -1,0 +1,2 @@
+Definizione dell'architettura
+==============================
