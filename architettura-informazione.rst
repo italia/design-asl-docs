@@ -12,6 +12,8 @@ L’architettura di un sito è composta da:
 
 Tutti i dettagli sull’architettura del sito di una ASL sono contenuti nel documento di architettura dell’informazione (ODS XXKB).
 
+-------------------
+
 
 .. toctree::
    :maxdepth: 3
