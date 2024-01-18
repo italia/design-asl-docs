@@ -6,9 +6,9 @@ Ricerca e progettazione
    :caption: Indice dei contenuti
 
    ricerca-e-progettazione/benchmark.rst
-   ricerca-e-progettazione/ricerca-cittadini.rst
-   ricerca-e-progettazione/ricerca-stakeholder.rst
-   ricerca-e-progettazione/user-scenarios.rst
+   ricerca-e-progettazione/interviste-cittadini.rst
+   ricerca-e-progettazione/interviste-stakeholder.rst
+   ricerca-e-progettazione/scenari-uso.rst
    ricerca-e-progettazione/user-personas.rst
    ricerca-e-progettazione/definizione-architettura.rst
    ricerca-e-progettazione/validazione-architettura.rst
