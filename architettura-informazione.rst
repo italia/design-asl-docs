@@ -26,7 +26,7 @@ Tutti i dettagli sull’architettura del sito di una ASL sono contenuti nel docu
    architettura-informazione/sezione-come-fare-per.rst
    architettura-informazione/sezione-strutture.rst
    architettura-informazione/sezione-asl-comunica.rst
-   architettura-informazione/organizzazione.rst
+   architettura-informazione/sezione-organizzazione.rst
    architettura-informazione/pagine-aggregatrici.rst
    architettura-informazione/altri-contenuti.rst
    architettura-informazione/tassonomie.rst
