@@ -1,6 +1,6 @@
 ============================
 Introduzione al modello ASL
-=============================
+============================
 
 Il modello Aziende sanitarie locali (ASL) permette di creare siti web che rispondono ai bisogni degli utenti, con interfacce e strutture informative semplici da usare e navigare. Lo scopo è di fornire agli utenti delle ASL un punto di riferimento chiaro e inclusivo per trovare con facilità tutte le informazioni di cui hanno bisogno, garantendo un’esperienza digitale coerente tra i vari enti. 
 
