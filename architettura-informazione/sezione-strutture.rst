@@ -35,6 +35,7 @@ La pagina è composta da:
 •	Una **sezione Esplora per categoria**, in cui sarà presente l’elenco delle categorie per le quali sono categorizzate le diverse strutture, con nome e descrizione.
 
 Pagina lista categoria di struttura
+------------------------------------
 
 Al di sotto della pagina lista di primo livello Strutture, si diramano le pagine lista categoria di secondo livello. Una pagina lista categoria raccoglie i collegamenti a tutte le pagine strutture servizio afferenti a quella specifica categoria.
 
