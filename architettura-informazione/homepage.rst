@@ -3,7 +3,7 @@ Homepage
 
 L’homepage è stata progettata per fornire agli utenti una panoramica esaustiva dell’operato dell’ASL e i collegamenti rapidi ai contenuti più ricercati, tenendo conto anche delle necessità informative degli enti.
 
-`Vai ai layout hi-fi dell’homepage <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=606-52837&mode=design&t=9uULpf4w4oqcoP7U-4>'_
+`Vai ai layout hi-fi dell’homepage <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=606-52837&mode=design&t=9uULpf4w4oqcoP7U-4>`_
 
 L’homepage del modello è composta da:
 
