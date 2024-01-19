@@ -45,7 +45,7 @@ Personale
 
 La pagina *Personale* è una pagina lista che raccoglie e presenta tutte le pagine persona create per presentare il personale dell'ASL, sia medico che amministrativo.
 
-Il layout di pagina segue il layout “Pagina lista di secondo livello – template base”, ed è composto da:
+Il layout di pagina segue il layout `“Pagina lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=WyzUHPuw0Pq28VSs-4>`_, ed è composto da:
 
 •	Il titolo della pagina, che sarà “Personale”
 •	Una breve descrizione del contenuto su pagina
@@ -59,9 +59,9 @@ Vai al layout hi-fi di una pagina persona
 Documenti
 ------------
 
-La pagina Documenti è una pagina lista che raccoglie e presenta tutte le pagine documenti.
+La pagina *Documenti* è una pagina lista che raccoglie e presenta tutte le pagine documenti.
 
-Il layout di pagina segue il layout “pagina lista di secondo livello – template base”, ed è composto da:
+Il layout di pagina segue il layout `“pagina lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=WyzUHPuw0Pq28VSs-4>`_, ed è composto da:
 
 •	Il titolo della pagina, che sarà “Documenti”
 •	Una breve descrizione del contenuto su pagina
