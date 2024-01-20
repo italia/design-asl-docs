@@ -1,2 +1,8 @@
 Interviste con gli stakeholder
 =================================
+
+Per scegliere i professionisti di enti, fornitori e in house da coinvolgere nelle interviste (utenti diretti del modello), abbiamo preso in considerazione la posizione geografica della Asl (appartenenza a Regioni del nord, centro, sud e isole) e lo stato dell’arte dei siti in termini di aderenza alle Linee guida di design per i siti internet e i servizi digitali della PA (bassa, media, alta).
+
+Per perseguire l’eterogeneità del campione abbiamo incrociato questi dati per selezionare i partecipanti, figure principalmente afferenti all’ambito IT e della comunicazione, provenienti da 11 diverse organizzazioni, tra Asl e fornitori. I partecipanti sono poi stati contattati chiedendo la disponibilità per un’intervista online di circa 45 min/1 ora (in base al fatto che all’incontro partecipassero una o più figure insieme), chiarendo lo scopo della ricerca e le tematiche che sarebbero state affrontate.
+
+Inoltre, dato lo stretto legame tra le Asl e le Regioni, abbiamo deciso di contattare anche i responsabili regionali per indicarci alcuni referenti con esperienza pregressa nella progettazione di siti e portali in ambito sanitario, allo scopo di raccogliere i loro spunti e intercettare potenziali criticità. I rappresentanti di 5 Regioni hanno dato la loro disponibilità e sono stati coinvolti in un’attività di progettazione partecipata, attraverso un focus group di due ore mirato ad identificare i pro e i contro di un modello standard per le Asl, le opportunità e i rischi che avremmo potuto incontrare durante la progettazione.
