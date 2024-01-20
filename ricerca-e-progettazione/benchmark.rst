@@ -1,7 +1,7 @@
 Benchmark
 =============
 
-L’attività di benchmark è stata indirizzata all’analisi della situazione esistente nel panorama di siti di ASL 
+L’attività di benchmark è stata indirizzata all’analisi della situazione esistente nel panorama di siti di ASL, per identificare le migliori buone pratiche già in uso.
 
 Sono stati analizzati 10 siti rappresentativi:
 
