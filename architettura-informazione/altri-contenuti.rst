@@ -9,3 +9,11 @@ Alcuni dei contenuti obbligatori dell’Amministrazione trasparente saranno già
 
 Per rendere i contenuti dell'Amministrazione trasparente interoperabili, è disponibile il `relativo profilo applicativo <https://schema.gov.it/semantic-assets/details?uri=https%3A%2F%2Fw3id.org%2Fitalia%2Fonto%2FTransparency>`_.
 
+Dichiarazione di accessibilità
+---------------------------------
+La Dichiarazione di accessibilità, requisito legale, è lo strumento attraverso il quale le Amministrazioni rendono pubblico lo stato di accessibilità di ogni sito web e applicazione mobile di cui sono titolari. La dichiarazione deve essere redatta e pubblicata utilizzando esclusivamente l’`applicazione online di AGID <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_.  
+
+Domande frequenti (FAQ)
+-------------------------
+
+
