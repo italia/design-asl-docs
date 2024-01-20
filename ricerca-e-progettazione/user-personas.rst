@@ -5,6 +5,7 @@ A corredo degli scenari d'uso sono state definite 7 User Personas, ossia dei mod
 Questo strumento è necessario per far sì che necessità e bisogni degli utenti influenzino e informino il processo di progettazione. Ciascun persona viene etichettato con alcune informazioni identificative (nome, genere, età) e ha un proprio background che narra alcune delle evidenze raccolte in fase di ricerca con i cittadini. Ogni personas inoltre ha una città di residenza/domicilio (che definisce l’area in cui è presente la ASL di riferimento) e una valutazione complessiva delle competenze digitali.
 
 Le descrizioni delle personas corrispondono a macro-categorie di utenti che rappresentano:
+
 •	Comuni cittadini che hanno diritto ai servizi erogati dal Servizio Sanitario Nazionale (SSN);
 •	Caregiver, persone che prestano cura a familiari o ad individui anziani, disabili o malati;
 •	Imprenditori che possono usufruire dei servizi ASL per ciò che riguarda la propria attività;
