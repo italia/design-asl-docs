@@ -25,7 +25,7 @@ Le tipologie di contenuto di riferimento per questa sezione sono:
 
 Le pagine *URP* e *CUP* possono seguire, invece, la struttura della tipologia Servizio. La pagina *Lavora con noi* può essere impostata liberamente dall'ASL in base alle proprie esigenze.
 
-Per approfondire la struttura della sezione Organizzazione, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione Organizzazione, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 Direzione
 ------------
