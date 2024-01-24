@@ -19,7 +19,7 @@ In alberatura, sono state portate al secondo livello le categorie di strutture p
 
 Direttamente sotto le pagine lista di secondo livello (pagine categoria), sono presenti le pagine foglia delle strutture afferenti a quella specifica categoria, create seguendo le indicazioni della tipologia di contenuto “Struttura”.
 
-Per approfondire la struttura della sezione Strutture, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione Strutture, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 
 Pagina lista di primo livello Strutture
