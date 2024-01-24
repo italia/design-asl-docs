@@ -13,7 +13,7 @@ Al secondo livello, la sezione si dirama in una serie di pagine categoria:
 •	Concorsi
 •	Bandi di gara
 
-Per approfondire la struttura della sezione ASL comunica, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione ASL comunica, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 
 Pagina lista di primo livello ASL comunica
