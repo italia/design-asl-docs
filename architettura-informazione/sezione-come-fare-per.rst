@@ -7,7 +7,7 @@ Si tratta di tutte quelle procedure che richiedono all’utente di interfacciars
 
 Al primo livello, la sezione presenta una pagina lista “Come fare per”. Al secondo livello sono direttamente presenti le pagine foglia delle guide alle procedure, create seguendo le indicazioni della tipologia di contenuto “Come fare per”.
 
-Per approfondire la struttura della sezione Come fare per, vai al Grafico dell’alberatura (PDF XXMB).
+Per approfondire la struttura della sezione Come fare per, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 
 Pagina lista di primo livello Come fare per
