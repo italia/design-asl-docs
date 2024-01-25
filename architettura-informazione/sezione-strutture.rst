@@ -53,7 +53,7 @@ Una pagina lista categoria di secondo livello segue il layout indicato come “p
 Tipologia Struttura
 -----------------------
 
-La tipologia “Struttura”, descritta nel documento di architettura (ODS XXMB), indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di una **struttura fisica (non sedi amministrative)** dove gli utenti possono recarsi per usufruire di una prestazione sanitaria.
+La tipologia “Struttura”, descritta nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di una **struttura fisica (non sedi amministrative)** dove gli utenti possono recarsi per usufruire di una prestazione sanitaria.
 
 La tipologia “Struttura” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come a chi è dedicata la struttura, indirizzo, modalità di accesso, orari di apertura, i contatti e l’elenco dei servizi erogati.
 
