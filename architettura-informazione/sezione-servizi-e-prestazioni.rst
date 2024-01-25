@@ -58,7 +58,7 @@ Una pagina lista categoria di secondo livello segue il layout indicato come `“
 Tipologia “Servizio”
 ----------------------
 
-La tipologia “Servizio”, descritta nel documento di architettura (ODS XXMB), indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio sanitario o di una prestazione. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come le modalità di accesso al servizio, tempi di attesa, indirizzi, orari di apertura e contatti.
+La tipologia “Servizio”, descritta nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio sanitario o di una prestazione. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come le modalità di accesso al servizio, tempi di attesa, indirizzi, orari di apertura e contatti.
 
 `Vai ai layout hi-fi di una pagina servizio <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112757&mode=design&t=9uULpf4w4oqcoP7U-4>`_
 
