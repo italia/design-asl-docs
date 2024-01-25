@@ -47,7 +47,7 @@ Una pagina lista categoria di secondo livello segue il layout `“Pagina lista d
 Tipologie "Notizia", "Evento", "Bando e concorso"
 ---------------------------------------------------
 
-Le tipologie di questa sezione, descritte nel documento di architettura (ODS XXMB), indicano gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare pagine foglia:
+Le tipologie di questa sezione, descritte nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.pdf>`_, indicano gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare pagine foglia:
 
 •	**Tipologia Notizia e comunicato stampa**: riferibile a tutti i tipi di aggiornamento e comunicazione come comunicati stampa, avvisi e notizie;
 •	**Tipologia Evento**: per la creazione di pagine evento. La tassonomia di riferimento per categorizzare questi contenuti è la Tassonomia Tipi di Evento; 
