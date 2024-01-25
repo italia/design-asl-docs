@@ -10,7 +10,7 @@ L’architettura di un sito è composta da:
 -	le **tipologie di contenuto** (in inglese, content types), ovvero la struttura e l’ordine delle informazioni per creare pagine foglia (ad esempio, le pagine di dettaglio per i servizi o le strutture di un’ASL);
 -	le **tassonomie** e i vocabolari controllati, ovvero le liste di vocaboli da usare per nominare i contenuti del sito e per taggarli in modo da renderli fruibili tramite motore di ricerca o navigazione alternativa.
 
-Tutti i dettagli sull’architettura del sito di una ASL sono contenuti nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.pdf>`_.
+Tutti i dettagli sull’architettura del sito di una ASL sono contenuti nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_.
 
 -------------------
 
