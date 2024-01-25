@@ -13,7 +13,7 @@ Il funzionamento delle Pagine aggregatrici si basa sull'uso della *Tassonomia ar
 
 Nella pagina aggregatrice non è obbligatoria la presenza di contenuti riferibili a tutte le sezioni ma, per avere senso di esistere, questa pagina dovrà aggregare contenuti provenienti da almeno due sezioni di quelle elencate. Le varie tab della pagina dovrebbero apparire soltanto se ci sono dei contenuti da presentare.
 
-`Vai ai layout hi-fi delle Pagine aggregatrici <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=907-133729&mode=design&t=uVf0uxvoPpPLfHYv-4>`_.
+`Vai ai layout hi-fi delle Pagine aggregatrici <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=907-133729&mode=design&t=uVf0uxvoPpPLfHYv-4>`_
 
 Alle **Pagine Utenti** è possibile accedere tramite homepage, dalla sezione "Tutto per", e dalle sezioni "A chi è rivolto" delle pagine foglia del sito. Per rendere le pagine Utenti utili, è necessario usare i tag con efficacia - ad esempio, per la pagina Anziani, aggiungi il tag solo ai servizi e le strutture dedicate esclusivamente a loro. Non si creerebbe, altrimenti, una navigazione alternativa rispetto alla consultazione della sezione del sito Servizi o Strutture.
 
