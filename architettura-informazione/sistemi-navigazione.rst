@@ -11,3 +11,8 @@ La **navigazione secondaria** del sito avviene tramite footer, dove sono present
 
 .. important::
    La sezione Organizzazione è l’unica tra le principali del sito a non essere presente nel menu di navigazione principale. Questo perché la sezione presenta l’ASL da un punto di vista prettamente amministrativo (dirigenti, dipartimenti, uffici), mentre gli utenti ragionano più in ottica di “sedi fisiche” dove possono recarsi per usufruire dei servizi sanitari. La sezione Organizzazione presenta quindi dei contenuti più per il personale sanitario o per gli utenti, in netta minoranza, che sono consapevoli di ricercare indicazioni di tipo organizzativo e amministrativo. Mantenere questa sezione accessibile dal menu di navigazione principale, al pari di “Strutture”, creerebbe confusione e impatterebbe la navigazione degli utenti.
+
+**Breadcrumbs e URL**
+Per una corretta navigazione all'interno del sito e per fornire all'utente un'indicazione chiara di dove si trova, è importante avere delle breadcrumbs e delle URL strutturate su ogni pagina. Entrambi questi elementi devono rispecchiare la struttura del sito.
+
+Sul foglio "Sistema di navigazione" del `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, trovi le breadcrumb e le URL di esempio per ogni pagina del modello.
