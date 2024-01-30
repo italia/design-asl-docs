@@ -10,6 +10,6 @@ Interfaccia
    :caption: Indice dei contenuti
 
    interfaccia/libreria-componenti.rst
-   interfaccia/annotazione-accessibilita.rst
+   interfaccia/annotazioni-accessibilita.rst
    interfaccia/prototipi-alta-fedelta.rst
    interfaccia/font.rst
