@@ -10,7 +10,7 @@ Al secondo livello, la sezione si dirama in una serie di pagine categoria:
 •	Ospedali
 •	Ambulatori e poliambulatori
 •	Laboratori di analisi
-•	Ambulatori medici di base
+•	Medici di base e pediatri
 •	Altre strutture territoriali
 
 La tassonomia di riferimento che regola le nomenclature per le pagine categoria di questa sezione è la Tassonomia Tipi di Strutture. Le nomenclature individuate sono le più riconosciute dagli utenti, perciò le ASL dovrebbero sforzarsi di collocare le proprie strutture a partire da questa suddivisione. È comunque possibile aggiungere nuove categorie nel caso ci siano servizi sanitari che non rientrano nelle categorie individuate.
@@ -58,6 +58,11 @@ La tipologia “Struttura”, descritta nel `Documento di architettura dell’in
 La tipologia “Struttura” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come a chi è dedicata la struttura, indirizzo, modalità di accesso, orari di apertura, i contatti e l’elenco dei servizi erogati.
 
 `Vai al layout hi-fi di una pagina struttura <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112766&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+
+
+Medici di base e pediatri
+---------------------------
+La sottosezione 'Medici di base e pediatri' è l'unica che, invece delle pagine Struttura, presenta delle pagine foglia di tipo Persona.
 
 
 
