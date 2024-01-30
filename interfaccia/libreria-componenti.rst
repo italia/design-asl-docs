@@ -10,4 +10,4 @@ I vantaggi di utilizzare una libreria di componenti sono:
 
 All’interno del file Figma è possibile trovare tutte le informazioni di implementazione, di utilizzo e di comportamento a livello di interazione. 
 
-`Vai alla libreria dei compenenti UI <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=0-1&mode=design&t=r4McNSsn9GBsL5Tk-0>`_
+`Vai alla libreria dei componenti UI <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=0-1&mode=design&t=r4McNSsn9GBsL5Tk-0>`_
