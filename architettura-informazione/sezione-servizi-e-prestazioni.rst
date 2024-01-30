@@ -62,6 +62,6 @@ La tipologia “Servizio”, descritta nel `Documento di architettura dell’inf
 
 `Vai ai layout hi-fi di una pagina servizio <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112757&mode=design&t=9uULpf4w4oqcoP7U-4>`_
 
-La tipologia “Servizio” è abbastanza flessibile da adattarsi a ogni categoria di servizio o prestazione identificata. Per le ASL che hanno invece bisogno di una struttura sequenziale (passo per passo) per i percorsi di cura, è possibile usare il layout della tipologia Come fare per.
+La tipologia “Servizio” è abbastanza flessibile da adattarsi a ogni categoria di servizio o prestazione identificata. Per le ASL che hanno invece bisogno di una struttura sequenziale (passo per passo) per i percorsi di cura, è possibile usare il componente Step by step usato nei layout della tipologia Come fare per.
 
 
