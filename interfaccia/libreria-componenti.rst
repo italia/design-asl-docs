@@ -47,3 +47,10 @@ I layout di pagina disponibili sono:
 •	Pagine aggregatorici;
 •	Ricerca.
 
+Personalizzazione dell'interfaccia
+-------------------------------------
+
+Aggiungi il logo dell’ASL, scegli la giusta tipologia di header e imposta i colori primari e secondari.
+
+La `guida alla personalizzazione del modello <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1821-146657&mode=design&t=r4McNSsn9GBsL5Tk-4>`_ ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento.
+
