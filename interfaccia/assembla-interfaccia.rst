@@ -1,2 +1,0 @@
-Assembla l'interfaccia
-========================
