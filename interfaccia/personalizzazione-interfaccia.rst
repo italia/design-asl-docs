@@ -1,2 +1,0 @@
-Personalizza l'interfaccia
-==============================
