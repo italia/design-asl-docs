@@ -9,11 +9,24 @@ Alcuni dei contenuti obbligatori dell’Amministrazione trasparente saranno già
 
 Per rendere i contenuti dell'Amministrazione trasparente interoperabili, è disponibile il `relativo profilo applicativo <https://schema.gov.it/semantic-assets/details?uri=https%3A%2F%2Fw3id.org%2Fitalia%2Fonto%2FTransparency>`_.
 
-Dichiarazione di accessibilità
----------------------------------
-La Dichiarazione di accessibilità, requisito legale, è lo strumento attraverso il quale le Amministrazioni rendono pubblico lo stato di accessibilità di ogni sito web e applicazione mobile di cui sono titolari. La dichiarazione deve essere redatta e pubblicata utilizzando esclusivamente l’`applicazione online di AGID <https://www.agid.gov.it/it/design-servizi/accessibilita/dichiarazione-accessibilita>`_.  
+Dichiarazione di accessibilità, Informativa privacy e Informativa cookie
+------------------------------------------------------------------------------
+Questi contenuti sono requisiti di legge. Per le indicazioni sulla struttura e i contenuti di queste pagine si rimanda alle normative in vigore nel `capitolo Norme e requestiti legali <https://docs.italia.it/italia/designers-italia/design-asl-docs/it/versione-corrente/norme-e-requisiti-legali.html>`_.
 
 Domande frequenti (FAQ)
 -------------------------
+Si consiglia di prevedere una pagina con le Domande frequenti (FAQ) come indicazione dell'eGovernment Benchmark, lo standard europeo di comparazione della qualità dei servizi digitali erogati dalle pubbliche amministrazioni. 
+
+La pagina dovrebbe prevedere una barra di ricerca con cui è possibile filtrare velocemente i risultati su pagina.
+
+Mappa del sito
+-----------------
+La mappa del sito è uno strumento fondamentale per garantire l'accessibilità di un sito e di fornire una navigazione alternativa all'uso dei menu di navigazione. La pagina si presenta come una lista di titoli di pagina con i link alle pagine stesso e l'indicazione della gerarchia nella struttura del sito, facilmente leggibile dai software di accessibilità.
+
+Il foglio "Sistema di navigazione" del `Documento di architettura (ODS 165MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_ - nelle colonne A, B, C, D e E - offre un esempio di come strutturare la mappa di un sito.
+
+Si sconsiglia di includere nella mappa del sito i collegamenti alle pagine di contenuti editoriali come notizie ed eventi, in quanto contenuti che diventano velocemente obsoleti e che potrebbero poi creare una lista di pagine molto lunga e difficile da navigare. Per queste sezioni, si consiglia di fornire i link solo alle pagine lista di categoria (ad esempio, la pagina Notizie e la pagina Eventi).
+
+
 
 
