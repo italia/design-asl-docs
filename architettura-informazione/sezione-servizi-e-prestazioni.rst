@@ -37,7 +37,8 @@ La pagina è composta da:
 •	Una **sezione Come fare per**, in cui presentare i collegamenti alle guide passo per passo correlate ai servizi, presenti nella sezione del sito Come fare per - consigliamo *Come pagare un ticket*, *Prenotare una visita o un esame*, *Pagare il ticket*, *Cambiare/scegliere medico di base o pediatra*, *Ritirare referti*, *Richiedere esenzioni*;
 •	Una **sezione Fasciolo Sanitario Elettronico (FSE)** che porta alla scheda servizio dedicata;
 •	Una **sezione Pronto Soccorso** che rimanda alla sceda servizio dedicata. Nella scheda è obbligatorio rendere disponibile le informazioni relative allo stato di affollamento del pronto soccorso. Questa informazione può essere incorporata all’interno della scheda servizio o in alternativa può rappresentare un link verso la piattaforma regionale di riferimento;
-•	Una **Parliamo di**, in cui sono riportati i collegamenti verso ciascun argomento a cui sia stato correlato un contenuto appartenente alle categorie dei servizi. Il click su un argomento porta a una Pagina aggregatrice con la tab Servizi selezionata.
+•	Una **sezione Parliamo di**, in cui sono riportati i collegamenti verso ciascun argomento a cui sia stato correlato un contenuto appartenente alle categorie dei servizi. Il click su un argomento porta a una Pagina aggregatrice con la tab Servizi selezionata;
+• La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 
 Pagina lista categoria di servizio
@@ -53,12 +54,15 @@ Una pagina lista categoria di secondo livello segue il layout indicato come `“
 •	Una breve descrizione della categoria e del contenuto su pagina;
 •	Una barra di ricerca dove inserire parole chiave per filtrare la lista dei risultati;
 •	La lista dei filtri che un utente può selezionare, divisi in Utenti e Argomenti – su desktop i filtri sono sempre visibili e i risultati di pagina si aggiornano alla selezione del filtro, su mobile i filtri si aprono in una modale e i risultati si aggiornano al click sul pulsante “Mostra risultati”;
-• La lista dei contenuti.
+• La lista dei contenuti;
+• La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 Tipologia “Servizio”
 ----------------------
 
 La tipologia “Servizio”, descritta nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio sanitario o di una prestazione. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come le modalità di accesso al servizio, tempi di attesa, indirizzi, orari di apertura e contatti.
+
+Come ogni pagina del sito, le pagine foglia servizio presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 `Vai ai layout hi-fi di una pagina servizio <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112757&mode=design&t=9uULpf4w4oqcoP7U-4>`_
 
