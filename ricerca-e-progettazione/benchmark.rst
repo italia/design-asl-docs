@@ -1,18 +1,8 @@
 Benchmark
 =============
 
-L’attività di benchmark è stata indirizzata all’analisi della situazione esistente nel panorama di siti di ASL, per identificare le migliori buone pratiche già in uso.
+L’obiettivo dell’attività di benchmark è stato individuare le buone pratiche di esperienza d’uso dei siti informativi delle ASL, ma anche di altre tipologie di touchpoint in ambito sanitario, sia in termini di organizzazione dei contenuti che di flussi di navigazione.
 
-Sono stati analizzati 10 siti rappresentativi:
+È stata effettuata un’esplorazione della situazione attuale a livello nazionale, prendendo in considerazione i siti di enti appartenenti alle regioni del nord, centro, sud e isole, individuando una decina di casi studio che sono stati poi analizzati più approfonditamente. 
 
--	ASL Novara (Piemonte)
--	ASL Biella (Piemonte)
--	ASL Torino 5 (Piemonte)
--	APSS Trento (Trentino-Alto Adige)
--	ASL Verbano Cusio Ossola (Piemonte)
--	AUSL Reggio Emilia (Emilia-Romagna)
--	AUSL Piacenza (Emilia Romagna)
--	USL Umbria 1 (Umbria)
--	ASL Napoli 2 Nord (Campania)
-
-Consulta il dettaglio dell'analisi benchmark (PDF XXKB)
+Ciò ha consentito di ottenere un prospetto delle sezioni e dei contenuti che constituiscono i siti delle ASL, di come possono essere organizzate e nominate, ma anche spunti per soluzioni progettuali relative alla navigazione trasversale e all’organizzazione degli elementi in pagina.
