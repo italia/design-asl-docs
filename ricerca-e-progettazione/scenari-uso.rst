@@ -1,7 +1,11 @@
 Scenari d'uso
 ================
 
-La ricerca svolta ci ha permesso di definire un set di scenari d'uso minimi; periodi micro-narrativi che elencano le tipologie di necessità utili a definire uno scenario di interazione tra utente e sito della ASL.
+La fase di ricerca qualitativa ci ha anche permesso di definire un set minimo di scenari d’uso del sito della ASL.  
+
+L’obiettivo di questa attività è stato definire gli scopi per cui i cittadini utilizzano più frequentemente il sito di una ASL, in modo da progettare una struttura e una navigazione del modello che risponde ai bisogni informativi degli utenti. 
+
+Abbiamo elaborato gli scenari in modo da rappresentare le motivazioni per cui le diverse personas individuate si trovano ad interagire con il sito, a visitare determinate sezioni e a cercare certe informazioni. Questo ci ha permesso di prioritizzare la progettazione delle principali sezioni, contenuti e interazioni del modello. 
 
 Gli scenari individuati sono:
 
@@ -15,5 +19,5 @@ Gli scenari individuati sono:
 - Cercare i concorsi e i bandi attivi presso l'ASL di riferimento;
 - Cercare informazioni sullo stato d'affolamento in tempo reale del Pronto Soccorso.
 
-Approfondisci gli scenari d'uso
+Di questi scenari sono poi stati realizzati i prototipi interativi da utilizzare per effettuare i test di usabilità.
 
