@@ -1,8 +1,17 @@
 Interviste con gli stakeholder
 =================================
 
-Per scegliere i professionisti di enti, fornitori e in house da coinvolgere nelle interviste (utenti diretti del modello), abbiamo preso in considerazione la posizione geografica della Asl (appartenenza a Regioni del nord, centro, sud e isole) e lo stato dell’arte dei siti in termini di aderenza alle Linee guida di design per i siti internet e i servizi digitali della PA (bassa, media, alta).
+L’obiettivo è stato comprendere gli aspetti relativi all’erogazione dei servizi informativi in ambito sanitario, come la realizzazione, implementazione e gestione dei siti, sia dal punto di vista amministrativo-burocratico, che delle infrastrutture tecnologiche esistenti (ad esempio, banche dati, sistemi di prenotazione e pagamento, Fascicolo Sanitario Elettronico, etc.).
 
-Per perseguire l’eterogeneità del campione abbiamo incrociato questi dati per selezionare i partecipanti, figure principalmente afferenti all’ambito IT e della comunicazione, provenienti da 11 diverse organizzazioni, tra Asl e fornitori. I partecipanti sono poi stati contattati chiedendo la disponibilità per un’intervista online di circa 45 min/1 ora (in base al fatto che all’incontro partecipassero una o più figure insieme), chiarendo lo scopo della ricerca e le tematiche che sarebbero state affrontate.
+Abbiamo coinvolto, in un’intervista di circa un’ora, figure appartenenti ad 11 diverse organizzazioni, principalmente afferenti all’ambito IT e della comunicazione, in modo che il panel fosse rappresentativo di una varietà di situazioni, perseguendo diversità in termini di: posizione geografica della ASL, stato dell’arte del sito attuale, modalità di gestione dei servizi IT ed esperienza pregressa. Inoltre, dato lo stretto legame tra le ASL e le Regioni, abbiamo svolto anche un focus group di circa 2 ore. 
 
-Inoltre, dato lo stretto legame tra le Asl e le Regioni, abbiamo deciso di contattare anche i responsabili regionali per indicarci alcuni referenti con esperienza pregressa nella progettazione di siti e portali in ambito sanitario, allo scopo di raccogliere i loro spunti e intercettare potenziali criticità. I rappresentanti di 5 Regioni hanno dato la loro disponibilità e sono stati coinvolti in un’attività di progettazione partecipata, attraverso un focus group di due ore mirato ad identificare i pro e i contro di un modello standard per le Asl, le opportunità e i rischi che avremmo potuto incontrare durante la progettazione.
+Così abbiamo raccolto informazioni sulle dinamiche sottostanti alla realizzazione, implementazione e gestione dei siti delle ASL, sia dal punto di vista amministrativo che tecnico. Ma, soprattutto, abbiamo dedotto la percezione del valore di un modello standard, intercettando necessità e potenziali criticità rispetto alla diffusione del modello e all’utilizzo degli strumenti a supporto.  
+
+Abbiamo poi individuato le caratteristiche principali che un modello dovrebbe avere per far sì che le ASL siano spronate ad adottarlo:
+
+- Semplicità nella migrazione e gestione dei contenuti; 
+- Facilità e flessibilità nell’implementazione;
+- Maggiore qualità dell’esperienza erogata al cittadino;
+- Chiarezza e agevolezza nell’avere un sito conforme alla norma.
+
+ 
