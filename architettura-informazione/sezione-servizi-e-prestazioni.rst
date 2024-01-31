@@ -55,7 +55,7 @@ Una pagina lista categoria di secondo livello segue il layout indicato come `“
 •	Una barra di ricerca dove inserire parole chiave per filtrare la lista dei risultati;
 •	La lista dei filtri che un utente può selezionare, divisi in Utenti e Argomenti – su desktop i filtri sono sempre visibili e i risultati di pagina si aggiornano alla selezione del filtro, su mobile i filtri si aprono in una modale e i risultati si aggiornano al click sul pulsante “Mostra risultati”;
 • La lista dei contenuti;
-• La **funzionalità di valutazione della chiarezza informativa della pagina**, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
+• La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 Tipologia “Servizio”
 ----------------------
