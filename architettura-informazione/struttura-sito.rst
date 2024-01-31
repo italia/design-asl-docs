@@ -1,7 +1,7 @@
 Struttura del sito
 =====================
 
-Per visualizzare la struttura del modello di sito di una ASL, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
+Per visualizzare la struttura del modello di sito di una ASL, vai al `Grafico dell’alberatura (PDF 3.4MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 A partire dall’homepage (livello 0), il modello si dirama in 5 sezioni principali: 
 
