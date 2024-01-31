@@ -1,6 +1,6 @@
 ============================
 Introduzione al modello ASL
-=============================
+============================
 
 Il modello Aziende sanitarie locali (ASL) permette di creare siti web che rispondono ai bisogni degli utenti, con interfacce e strutture informative semplici da usare e navigare. Lo scopo è di fornire agli utenti delle ASL un punto di riferimento chiaro e inclusivo per trovare con facilità tutte le informazioni di cui hanno bisogno, garantendo un’esperienza digitale coerente tra i vari enti. 
 
@@ -19,7 +19,7 @@ La progettazione del modello ha anche preso in considerazione le indicazioni del
 Gli indicatori principali di riferimento, chiamati top-level benchmarks, sono stati:
 
 - **Centralità dell’utente** (in inglese, user-centricity), ovvero il poter fruire di un servizio da dispositivi mobili, di lasciare feedback e di richiedere assistenza online;
-- **Trasparenza** (in inglese, transparency), ovvero il poter trovare informazioni chiare sulle responsabilità delle amministrazioni, i processi di erogazione dei servizi e il trattamento dei dati personali.
+- **Trasparenza** (in inglese, transparency), ovvero il poter trovare informazioni chiare sulle responsabilità delle amministrazioni, i processi di erogazione dei servizi e il trattamento dei dati personali. 
 
 
 
