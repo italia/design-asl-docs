@@ -10,9 +10,10 @@ I principi di progettazione
 ------------------------------
 Il modello è stato progettato e realizzato sulla base dei principi di progettazione user-centred, tenendo in considerazione:
 
-- i **bisogni degli utilizzatori finali dei siti delle ASL**, ossia tutti coloro che hanno diritto di accesso al Sistema Sanitario Nazionale;
+- i **bisogni degli utilizzatori finali dei siti delle ASL**, ossia tutti coloro che hanno diritto di accesso al Sistema Sanitario Nazionale e la necessità di avere un punto di convergenza e aggregazione di contenuti di carattere informativo su servizi, prestazioni e procedure;
 - le **esigenze degli stakeholders** che si occuperanno di realizzare i siti (ASL e fornitori);
-- l’**ecosistema di servizi** in cui i siti si vanno ad inserire (es. Fascicolo Sanitario Elettronico, servizi online regionali).
+- l’**ecosistema di servizi** in cui i siti si vanno ad inserire (es. Fascicolo Sanitario Elettronico, servizi online regionali);
+- la **complessità organizzativa delle ASL italiane** e quindi la necessità di flessibilità e modularità e di definire raggruppamenti semantici ampi e modulabili su qualsiasi tipo di struttura organizzativa;
 
 La progettazione del modello ha anche preso in considerazione le indicazioni dell’**eGovernment Benchmark**, lo standard europeo di comparazione della qualità dei servizi digitali erogati dalle pubbliche amministrazioni.
 
