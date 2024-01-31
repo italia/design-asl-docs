@@ -20,7 +20,7 @@ La tassonomia di riferimento che regola le nomenclature per le pagine categoria 
 
 Direttamente sotto le pagine lista di secondo livello (pagine categoria), sono presenti le pagine foglia dei servizi afferenti a quella specifica categoria, create seguendo le indicazioni della tipologia di contenuto “Servizio”.
 
-Per approfondire la struttura della sezione Servizi e prestazioni, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
+Per approfondire la struttura della sezione Servizi e prestazioni, vai al `Grafico dell’alberatura (PDF 3.4MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 
 Pagina lista di primo livello Servizi e prestazioni
