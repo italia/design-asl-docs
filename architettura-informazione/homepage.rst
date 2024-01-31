@@ -15,3 +15,4 @@ L’homepage del modello è composta da:
 -	Una **sezione Tutto per**, in cui saranno presenti i collegamenti alle pagine aggregatrici Utenti che la ASL avrà individuato e a cui vorrà dare maggiore risalto;
 -	Una **sezione ASL Comunica**, che presenta gli ultimi contenuti editoriali pubblicati sul sito (notizie, comunicati stampa ed eventi) in ordine cronologico inverso (dal più recente al meno recente), da un minimo di 1 a un massimo di 3;
 -	Una **sezione Bandi e concorsi**, che presenta gli ultimi bandi (da un minimo di 1 ad un massimo di 3) e concorsi (da un minimo di 1 ad un massimo di 3) pubblicati sul sito in ordine cronologico inverso (dal più recente al meno recente). Se non sono presenti né bandi né concorsi, la sezione può essere omessa dalla homepage.
+- La **funzionalità di valutazione della chiarezza informativa delle pagine**, che permette agli utenti di lasciare feedback utile all'ente per migliorare i contenuti del sito.
