@@ -4,6 +4,18 @@ Modello Aziende sanitarie locali (ASL)
 
 .. highlights::
 
-   Presto disponibile la documentazione operativa e di progetto per il modello ASL di Designers Italia.
+   Documentazione tecnica e operativa per il modello di sito per le ASL, basato sul design system di Designers Italia.
+
+.. toctree::
+   :numbered:
+   :maxdepth: 3
+   :caption: Indice dei contenuti
+
+   introduzione.rst
+   architettura-informazione.rst
+   interfaccia.rst
+   ricerca-e-progettazione.rst
+   norme-e-requisiti-legali.rst
+   allegati-tecnici.rst
 
 
