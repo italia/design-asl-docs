@@ -7,7 +7,7 @@ Si tratta di tutte quelle procedure che richiedono all’utente di interfacciars
 
 Al primo livello, la sezione presenta una pagina lista “Come fare per”. Al secondo livello sono direttamente presenti le pagine foglia delle guide alle procedure, create seguendo le indicazioni della tipologia di contenuto “Come fare per”.
 
-Per approfondire la struttura della sezione Come fare per, vai al `Grafico dell’alberatura (PDF 4.3MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
+Per approfondire la struttura della sezione Come fare per, vai al `Grafico dell’alberatura (PDF 3.4MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Alberatura-ModelloASL-DesignersItalia.pdf>`_.
 
 
 Pagina lista di primo livello Come fare per
@@ -23,6 +23,7 @@ La pagina lista di primo livello dovrebbe presentare:
 •	Un sottotitolo di pagina con una breve descrizione dei contenuti della sezione;
 •	Una barra di ricerca, dove gli utenti possono inserire parole chiave per filtrare i risultati;
 •	L’elenco di tutte le pagine foglia “Come fare per”.
+• La funzionalità di valutazione della chiarezza informativa della pagina, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 
 Tipologia Come fare per
@@ -34,5 +35,7 @@ Sono stati creati 2 template utili alla stesura di questi contenuti:
 
 •	Un template per procedure semplici: procedure che richiedono pochi, semplici passaggi e che possono essere spiegate con solo elemento testuale;
 •	Un template per procedure complesse: procedure che possono coinvolgere più unità organizzative e che richiedono molti passaggi, oppure pochi passaggi ma per i quali è necessario condividere molte informazioni verso l’utente.
+
+Come ogni pagina del sito, le pagine foglia Come fare per presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
 `Vai ai layout hi-fi di una pagina Come fare per <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112794&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
