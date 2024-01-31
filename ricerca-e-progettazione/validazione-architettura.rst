@@ -1,2 +1,0 @@
-Validazione dell'architettura
-================================
