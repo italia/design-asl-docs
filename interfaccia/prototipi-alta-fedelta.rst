@@ -1,7 +1,7 @@
 Prototipi ad alta fedeltà
 ============================
 
-I prototipoi ad alta fedeltà sono la rappresentazione del prodotto finale e simulando i comportamenti e le interazioni che gli utenti avranno con lo stesso nel corso del suo utilizzo.
+I prototipi ad alta fedeltà sono la rappresentazione del prodotto finale e simulando i comportamenti e le interazioni che gli utenti avranno con lo stesso nel corso del suo utilizzo.
 
 `Prototipo del sito ASL versione desktop <https://www.figma.com/proto/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?node-id=2963-29111&starting-point-node-id=2963%3A29111&scaling=scale-down&mode=design&t=WQqEtf6esyW6n73Q-1>`_
 
