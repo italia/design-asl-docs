@@ -27,7 +27,8 @@ Pagina lista di primo livello Strutture
 
 La pagina lista di primo livello “Strutture” ha lo scopo di presentare agli utenti una panoramica delle sedi fisiche dove è possibile recarsi per usufruire di prestazioni sanitarie. 
 
-`Vai ai layout hi-fi della pagina Strutture <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112280&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di primo livello - STRUTTURE».
+
 
 La pagina è composta da:
 
@@ -40,9 +41,10 @@ Pagina lista categoria di struttura
 
 Al di sotto della pagina lista di primo livello Strutture, si diramano le pagine lista categoria di secondo livello. Una pagina lista categoria raccoglie i collegamenti a tutte le pagine strutture servizio afferenti a quella specifica categoria.
 
-`Vai ai layout hi-fi della pagina categoria di struttura <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112299&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Strutture ed elenco medici».
 
-Una pagina lista categoria di secondo livello segue il layout indicato come “pagina lista di secondo livello – Strutture”, ed è composta da:
+
+La pagina è composta da:
 
 •	Il titolo della pagina, che coincide con il titolo della categoria di servizio;
 •	Una breve descrizione della categoria e del contenuto su pagina;
@@ -61,7 +63,7 @@ La tipologia “Struttura” è stata progettata per mettere in risalto le infor
 
 Come ogni pagina del sito, le pagine foglia struttura presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-`Vai al layout hi-fi di una pagina struttura <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112766&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine foglia» e la board «Template STRUTTURA».
 
 
 Medici di base e pediatri
