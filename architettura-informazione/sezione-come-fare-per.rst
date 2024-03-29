@@ -15,7 +15,7 @@ Pagina lista di primo livello Come fare per
 
 La pagina lista di primo livello “Come fare per” ha lo scopo di presentare agli utenti una panoramica delle guide passo per passo disponibili sul sito.
 
-`Vai ai layout hi-fi della pagina lista Come fare per <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=2989-100817&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di primo livello - COME FARE PER».
 
 La pagina lista di primo livello dovrebbe presentare:
 
@@ -38,4 +38,4 @@ Sono stati creati 2 template utili alla stesura di questi contenuti:
 
 Come ogni pagina del sito, le pagine foglia Come fare per presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-`Vai ai layout hi-fi di una pagina Come fare per <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112794&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+I relativi layout hi-fi su Figma presentano la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine foglia» e la board «Template COME FARE PER».
