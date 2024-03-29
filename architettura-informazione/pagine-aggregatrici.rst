@@ -15,7 +15,7 @@ Nella pagina aggregatrice non è obbligatoria la presenza di contenuti riferibil
 
 Come ogni pagina del sito, le pagine aggregatrici presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all'ente per migliorare i contenuti del sito.
 
-`Vai ai layout hi-fi delle Pagine aggregatrici <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=907-133729&mode=design&t=uVf0uxvoPpPLfHYv-4>`_
+È disponibile iL relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagina aggregatrice».
 
 Alle **Pagine Utenti** è possibile accedere tramite homepage, dalla sezione "Tutto per", e dalle sezioni "A chi è rivolto" delle pagine foglia del sito. Per rendere le pagine Utenti utili, è necessario usare i tag con efficacia - ad esempio, per la pagina Anziani, aggiungi il tag solo ai servizi e le strutture dedicate esclusivamente a loro. Non si creerebbe, altrimenti, una navigazione alternativa rispetto alla consultazione della sezione del sito Servizi o Strutture.
 
