@@ -66,7 +66,6 @@ Le pagine foglia persona seguono la Tipologia persona sul `Documento di architet
 
 Come ogni pagina del sito, tutte le pagine foglia persona presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-`Vai al layout hi-fi di una pagina persona <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-128237&mode=design&t=YDBIuSohvrHzDa7O-4>`_
 
 Documenti
 ------------
