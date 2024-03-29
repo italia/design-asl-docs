@@ -51,7 +51,9 @@ Personale
 
 La pagina *Personale* è una pagina lista che raccoglie e presenta tutte le pagine persona create per presentare il personale dell'ASL, sia medico che amministrativo.
 
-Il layout di pagina segue il layout `“Pagina lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=WyzUHPuw0Pq28VSs-4>`_, ed è composto da:
+Il layout di pagina segue il template “Pagina lista di secondo livello – template base”, disponibile sul `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_. Apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di secondo livello – template base».
+
+La pagina è composta da:
 
 •	Il titolo della pagina, che sarà “Personale”
 •	Una breve descrizione del contenuto su pagina
@@ -71,7 +73,9 @@ Documenti
 
 La pagina *Documenti* è una pagina lista che raccoglie e presenta tutte le pagine documenti.
 
-Il layout di pagina segue il layout `“pagina lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=WyzUHPuw0Pq28VSs-4>`_, ed è composto da:
+Il layout di pagina segue il template “Pagina lista di secondo livello – template base”, disponibile sul `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_. Apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di secondo livello – template base».
+
+La pagina è composta da:
 
 •	Il titolo della pagina, che sarà “Documenti”;
 •	Una breve descrizione del contenuto su pagina;
