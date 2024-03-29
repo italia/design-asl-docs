@@ -21,7 +21,7 @@ Pagina lista di primo livello ASL comunica
 
 La pagina lista di primo livello di questa sezione è pensato per raccogliere e categorizzare tutti i contenuti editoriali disponibili sul sito, in modo da indirizzare facilmente gli utenti verso i contenuti di interesse. 
 
-`Vai ai layout hi-fi della pagina ASL comunica <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-110611&mode=design&t=jj1Plhbpw9PeK1dM-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di primo livello - ASL COMUNICA».
 
 La pagina è composta da:
 
@@ -37,7 +37,9 @@ Pagina lista categoria di secondo livello
 
 Al di sotto della pagina lista di primo livello ASL comunica, si diramano le pagine lista categoria di secondo livello. Una pagina lista categoria raccoglie i collegamenti a tutte le pagine foglia afferenti a quella specifica categoria di contenuto.
 
-Una pagina lista categoria di secondo livello segue il layout `“Pagina lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=WyzUHPuw0Pq28VSs-4>`_, ed è composta da:
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di secondo livello – template base».
+
+La pagina è composta da:
 
 •	Il titolo della pagina, che coincide con il titolo della categoria di contenuti;
 •	Una breve descrizione della categoria e del contenuto su pagina;
