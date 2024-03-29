@@ -10,7 +10,8 @@ I vantaggi di utilizzare una libreria di componenti sono:
 
 All’interno del file Figma è possibile trovare tutte le informazioni di implementazione, di utilizzo e di comportamento a livello di interazione. 
 
-`Vai alla libreria dei componenti UI <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=0-1&mode=design&t=r4McNSsn9GBsL5Tk-0>`_
+`Vai alla libreria dei componenti UI <https://www.figma.com/community/file/1344590104797564988>`_
+
 
 Fondamenti (Foundations)
 ----------------------------
@@ -52,5 +53,9 @@ Personalizzazione dell'interfaccia
 
 Aggiungi il logo dell’ASL, scegli la giusta tipologia di header e imposta i colori primari e secondari.
 
-La `guida alla personalizzazione del modello <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1821-146657&mode=design&t=r4McNSsn9GBsL5Tk-4>`_ ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento.
+La guida alla personalizzazione del modello ti aiuta a creare un sito con una resa grafica fluida, accessibile e che rispecchia al meglio l’identità visiva dell’ente di riferimento.
+
+Per accedere alle guida alla personalizzazione, vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «How to».
+
+
 
