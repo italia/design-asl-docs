@@ -5,7 +5,7 @@ Il sito di una ASL deve permettere ai cittadini di valutare la chiarezza informa
 
 Il componente è stato progettato usando una scala che vuole misurare la chiarezza dei contenuti e, in base alla valutazione ricevuta dall'utente, offre domande chiuse e aperte in maniera standardizzata, in modo tale da poter raccogliere feedback utile all'ente per migliorare le pagine del sito.
 
-`Vai al componente sulla Libreria UI <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=3382-113769&mode=design&t=zt6pQgKzPYHmI9BA-4>`_
+Il componente è disponibile nella Libreria UI del modello ASL su Figma. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Components» e la board «Feedback».
   
 La funzionalità si articola nei seguenti passaggi:
 
