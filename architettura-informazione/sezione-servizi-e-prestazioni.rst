@@ -28,7 +28,7 @@ Pagina lista di primo livello Servizi e prestazioni
 
 La pagina lista di primo livello “Servizi e prestazioni” ha lo scopo di presentare agli utenti una panoramica dei principali servizi e categorie di servizio a cui possono accedere presso l’ASL. 
 
-`Vai al layout hi-fi della pagina Servizi e prestazioni <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-110642&mode=design&t=9uULpf4w4oqcoP7U-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di primo livello - SERVIZI E PRESTAZIONI».
 
 La pagina è composta da:
 
@@ -46,9 +46,9 @@ Pagina lista categoria di servizio
 
 Al di sotto della pagina lista di primo livello Servizi e prestazioni, si diramano le pagine lista categoria di secondo livello. Una pagina lista categoria raccoglie i collegamenti a tutte le schede servizio afferenti a quella specifica categoria.
 
-`Vai al layout hi-fi della pagina lista categoria di servizio <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112290&mode=design&t=9uULpf4w4oqcoP7U-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Categoria di servizio o prestazione».
 
-Una pagina lista categoria di secondo livello segue il layout indicato come `“pagine lista di secondo livello – template base” <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1835-144054&mode=design&t=9uULpf4w4oqcoP7U-4>`_, ed è composta da:
+La pagina è composta da:
 
 •	Il titolo della pagina, che coincide con il titolo della categoria di servizio;
 •	Una breve descrizione della categoria e del contenuto su pagina;
@@ -64,7 +64,7 @@ La tipologia “Servizio”, descritta nel `Documento di architettura dell’inf
 
 Come ogni pagina del sito, le pagine foglia servizio presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
-`Vai ai layout hi-fi di una pagina servizio <https://www.figma.com/file/wsLgwYpYrd9yS9Tqx0Wkjp/ASL---Modello-sito?type=design&node-id=1746-112757&mode=design&t=9uULpf4w4oqcoP7U-4>`_
+È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine foglia» e la board «Template SERVIZIO».
 
 La tipologia “Servizio” è abbastanza flessibile da adattarsi a ogni categoria di servizio o prestazione identificata. Per le ASL che hanno invece bisogno di una struttura sequenziale (passo per passo) per i percorsi di cura, è possibile usare il componente Step by step usato nei layout della tipologia Come fare per.
 
