@@ -1,7 +1,7 @@
 Sistemi di navigazione
 ==========================
 
-Il **menu di navigazione principale (header)** del modello prevede i collegamenti alle pagine lista di primo livello di 4 delle sezioni principali del sito: Servizi e prestazioni, Strutture, Come fare per e ASL comunica.
+Il **menu di navigazione principale (header)** del modello prevede i collegamenti alle pagine lista di primo livello di 4 delle sezioni principali del sito: Servizi e prestazioni, Strutture, Come fare per e ASL comunica (etichetta che può essere cambiata in base alla tipologia di ente, seguendo la logica "{sigla_ente} comunica", ad esempio "ASP comunica" o "USL comunica").
 
 La **navigazione secondaria** del sito avviene tramite footer, dove sono presenti i collegamenti agli altri contenuti di primo livello: la sezione Organizzazione e le sue pagine di secondo livello, l’Amministrazione trasparente, l’Albo pretorio, la dichiarazione di accessibilità, l’informativa privacy, l’informativa cookie, la carta dei servizi, la mappa del sito, la pagina per l’invio di segnalazioni e la pagina per le domande frequenti (FAQ).
 
