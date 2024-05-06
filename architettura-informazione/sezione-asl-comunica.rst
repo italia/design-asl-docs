@@ -3,7 +3,7 @@ Sezione ASL comunica
 
 Questa sezione racchiude tutta la comunicazione ufficiale dell’ASL verso gli utenti ed è il principale punto di riferimento per restare aggiornati sulle novità.
 
-Al primo livello, la sezione presenta una pagina lista “ASL Comunica”.
+Al primo livello, la sezione presenta una pagina lista “ASL comunica”. Il titolo di pagina può essere cambiato in base alla tipologia di ente, seguendo la logica "{sigla_ente} comunica", ad esempio "ASP comunica" o "USL comunica".
 
 Al secondo livello, la sezione si dirama in una serie di pagine categoria:
 
@@ -19,7 +19,7 @@ Per approfondire la struttura della sezione ASL comunica, vai al `Grafico dell�
 Pagina lista di primo livello ASL comunica
 ----------------------------------------------
 
-La pagina lista di primo livello di questa sezione è pensato per raccogliere e categorizzare tutti i contenuti editoriali disponibili sul sito, in modo da indirizzare facilmente gli utenti verso i contenuti di interesse. 
+La pagina lista di primo livello di questa sezione è pensato per raccogliere e categorizzare tutti i contenuti editoriali disponibili sul sito, in modo da indirizzare facilmente gli utenti verso i contenuti di interesse. Il titolo di pagina può essere cambiato in base alla tipologia di ente, seguendo la logica "{sigla_ente} comunica", ad esempio "ASP comunica" o "USL comunica".
 
 È disponibile il relativo layout hi-fi su Figma che presenta la veste grafica della pagina e un esempio di contenuto. Vai al `file del modello ASL sulla Community Figma  <https://www.figma.com/community/file/1344590104797564988>`_, apri il file nelle tue bozze (Drafts) e scorri l’indice laterale fino a trovare il foglio «Pagine lista» e la board «Pagina lista di primo livello - ASL COMUNICA».
 
