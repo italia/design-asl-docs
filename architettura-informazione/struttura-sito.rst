@@ -8,7 +8,7 @@ A partire dall’homepage (livello 0), il modello si dirama in 5 sezioni princip
 - **Servizi e prestazioni**, con tutte le informazioni sui servizi sanitari offerti dall’ASL;
 -	**Come fare per**, con le guide passo per passo per usufruire delle procedure amministrative (iscrizioni, referti, pagamenti, prenotazioni);
 - **Strutture**, con le indicazioni delle strutture fisiche (e non amministrative) dove gli utenti possono recarsi per usufruire dei servizi sanitari;
--	**ASL Comunica**, con tutti i contenuti per tenere gli utenti aggiornati con le ultime novità;
+-	**ASL comunica**, con tutti i contenuti per tenere gli utenti aggiornati con le ultime novità;
 -	**Organizzazione**, che presenta l’organizzazione dell’ASL da un punto di vista strettamente amministrativo.
 
 Queste sezioni sono articolate in più livelli. In particolare, presentano:
