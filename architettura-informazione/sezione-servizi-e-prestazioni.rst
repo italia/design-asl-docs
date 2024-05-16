@@ -60,7 +60,7 @@ La pagina è composta da:
 Tipologia “Servizio”
 ----------------------
 
-La tipologia “Servizio”, descritta nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio sanitario o di una prestazione. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come le modalità di accesso al servizio, tempi di attesa, indirizzi, orari di apertura e contatti.
+La tipologia “Servizio”, descritta nel Documento di architettura dell’informazione (`Versione ODS 165KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, `Versione XLSX 398KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.xlsx>`_), indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia di un servizio sanitario o di una prestazione. La tipologia “Servizio” è stata progettata per mettere in risalto le informazioni “pratiche” più ricercate dagli utenti delle ASL, come le modalità di accesso al servizio, tempi di attesa, indirizzi, orari di apertura e contatti.
 
 Come ogni pagina del sito, le pagine foglia servizio presentano la **funzionalità di valutazione della chiarezza informativa** prima del footer, che permette agli utenti di lasciare feedback utile all’ente per migliorare i contenuti del sito.
 
