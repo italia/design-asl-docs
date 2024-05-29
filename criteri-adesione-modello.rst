@@ -90,3 +90,112 @@ Il sito contiene una sezione dedicata alle domande più frequenti (FAQ).
 **R4 - Valutazione dell'esperienza d'uso, chiarezza delle pagine informative**
 
 Il sito consente al cittadino di fornire una valutazione della chiarezza di ogni pagina di primo livello, secondo livello e pagina foglia.
+
+Appendice
+------------
+
+**Dettaglio del criterio “C3 - Voci di menù di primo livello”**
+
+ll sito presenta almeno 3 delle voci di menù di primo livello qui indicate:
+
+- “Servizi e prestazioni”
+- “Come fare per”
+- “Strutture”
+- “[tipo di organizzazione] comunica” (ad esempio, “ASL comunica”)
+
+**Dettaglio del criterio “C4 - Pagine di secondo livello”**
+
+Almeno il 50% delle pagine di secondo livello qui indicate devono essere presenti nel sito con i titoli
+richiesti:
+
+Per la sezione “Servizi e prestazioni”, sono:
+
+- Visite specialistiche
+- Esami e analisi
+- Percorsi di cura e assistenza
+- Prevenzione e vaccini
+- Igiene pubblica e animali
+- Interventi di chirurgia
+- Fascicolo sanitario elettronico
+- Pronto soccorso
+
+Per la sezione “Strutture”, sono:
+
+- Ospedali
+- Ambulatori e poliambulatori
+- Laboratori di analisi
+- Medici di base e pediatri
+- Altre strutture territoriali
+
+Per la sezione “[tipo di organizzazione] comunica”, sono:
+
+- Notizie
+- Comunicati stampa
+- Eventi
+- Concorsi
+- Bandi di gara
+
+**Dettaglio del criterio “C5 – Completezza del sito”**
+
+Il sito deve utilizzare almeno i content type qui indicati:
+
+- Struttura
+- Servizio
+- Come fare per
+- Unità organizzativa
+- Persona
+
+**Dettaglio del criterio “C6 – Completezza delle pagine”**
+
+Le pagine del sito che utilizzano i content type obbligatori devono includere almeno gli attributi qui
+indicati.
+
+Per il content type Struttura:
+
+- Nome della struttura
+- Descrizione breve
+- Dove (Indirizzo + apri in mappa)
+- Come accedere (modalità di accesso con indicazioni di accessibilità)
+- Orari di apertura
+- Contatti
+- Servizi e prestazioni
+- Ultimo aggiornamento dei contenuti
+
+Per il content type Servizio:
+
+- Nome del servizio
+- Descrizione breve
+- Cosa serve
+- Accedi al servizio
+- Dove (strutture dove viene erogato il servizio con indirizzo in vista)
+- Orari del servizio
+- Contatti
+- Ultimo aggiornamento dei contenuti
+- 
+
+Per il content type Come fare per:
+
+- Titolo del Come fare per
+- Descrizione breve
+- Panoramica
+- Come fare (passi della procedura)
+- Ultimo aggiornamento dei contenuti
+
+Per il content type Unità organizzativa:
+
+- Nome dell’unità organizzativa
+- Descrizione breve
+- Competenze
+- Dove (indirizzo + apri in mappa)
+- Orari di apertura
+- Contatti
+- Ultimo aggiornamento dei contenuti
+
+Per il content type Persona:
+
+- Nome e cognome
+- Sottotitolo (incarico principale)
+- Competenze
+- Contatti
+- Strutture in cui opera
+- Ultimo aggiornamento dei contenuti
