@@ -182,10 +182,10 @@ Il sito pubblica dati, documenti e informazioni con licenza aperta comunicandolo
 Oltre alle caratteristiche evidenziate sopra, si rimanda ai rispettivi testi normativi ufficiali, che
 contengono ulteriori obblighi legali:
 
-- Linee guida di design per i siti internet e i servizi digitali della PA
-- Linee Guida “Acquisizione e riuso di software per le pubbliche amministrazioni”
-- Codice dell’Amministrazione Digitale (CAD)
-- Linee guida sull’accessibilità degli strumenti informatici
+- `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`_
+- `Linee Guida “Acquisizione e riuso di software per le pubbliche amministrazioni” <https://www.agid.gov.it/it/design-servizi/riuso-open-source/linee-guida-acquisizione-riuso-software-pa>`_
+- `Codice dell’Amministrazione Digitale (CAD) <https://www.agid.gov.it/it/agenzia/strategia-quadro-normativo/codice-amministrazione-digitale>`_
+- `Linee guida sull’accessibilità degli strumenti informatici <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html>`_
 
 
 **Norme sulla sicurezza**
