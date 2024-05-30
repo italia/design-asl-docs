@@ -1,7 +1,7 @@
 Adesione al modello ASL
 =======================
 
-Su questa pagina trovi i criteri di adesione che guidano alla corretta adozione del modello, una serie di raccomandazioni progettuali per migliorare l’esperienza utente e le indicazioni di obblighi legali.
+In questa sezione trovi i criteri di adesione che guidano alla corretta adozione del modello, una serie di raccomandazioni progettuali per migliorare l’esperienza utente e le indicazioni di obblighi legali.
 
 La qualità di un sito web, tuttavia, non prescinde da tutte le buone pratiche che rendono il sito
 utile, affidabile, facile da usare e accessibile a tutte le persone: completezza e accuratezza delle
