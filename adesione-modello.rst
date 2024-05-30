@@ -33,7 +33,7 @@ Il sito presenta almeno 3 delle voci di menù di primo livello indicate:
 
 **C4 – Pagine di secondo livello**
 
-Almeno il 50% delle pagine di secondo livello indicate in appendice devono essere presenti nel sito
+Almeno il 50% delle pagine di secondo livello indicate devono essere presenti nel sito
 con i titoli richiesti.
 
 Per la sezione “Servizi e prestazioni”, sono:
