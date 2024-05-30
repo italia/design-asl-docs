@@ -19,7 +19,7 @@ Il sito utilizza la libreria Bootstrap Italia in una versione uguale o superiore
 
 **C2 - Coerenza dell'utilizzo dei font (librerie di caratteri)**
 
-Il sito utilizza i font Titillium, Lora e Roboto Mono, come indicato nel fondamento “Tipografia” del
+Il sito utilizza i font Titillium, Lora e Roboto Mono, come indicato nel `fondamento “Tipografia” <https://designers.italia.it/design-system/fondamenti/tipografia/>`_ del
 design system .italia.
 
 **C3 - Voci di menù di primo livello**
