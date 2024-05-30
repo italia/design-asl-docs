@@ -14,9 +14,8 @@ Modello Aziende sanitarie locali (ASL)
    introduzione.rst
    architettura-informazione.rst
    interfaccia.rst
-   criteri-adesione-modello.rst
    ricerca-e-progettazione.rst
-   norme-e-requisiti-legali.rst
    allegati-tecnici.rst
+   adesione-modello.rst
 
 
