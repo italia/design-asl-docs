@@ -23,7 +23,7 @@ Mappa del sito
 -----------------
 La mappa del sito è uno strumento fondamentale per garantire l'accessibilità di un sito e di fornire una navigazione alternativa all'uso dei menu di navigazione. La pagina si presenta come una lista di titoli di pagina con i link alle pagine stesso e l'indicazione della gerarchia nella struttura del sito, facilmente leggibile dai software di accessibilità.
 
-Il foglio "Sistema di navigazione" del `Documento di architettura (ODS 165MB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_ - nelle colonne A, B, C, D e E - offre un esempio di come strutturare la mappa di un sito.
+Il foglio "Sistema di navigazione" del Documento di architettura (`Versione ODS 165KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, `Versione XLSX 398KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.xlsx>`_) - nelle colonne A, B, C, D e E - offre un esempio di come strutturare la mappa di un sito.
 
 Si sconsiglia di includere nella mappa del sito i collegamenti alle pagine di contenuti editoriali come notizie ed eventi, in quanto contenuti che diventano velocemente obsoleti e che potrebbero poi creare una lista di pagine molto lunga e difficile da navigare. Per queste sezioni, si consiglia di fornire i link solo alle pagine lista di categoria (ad esempio, la pagina Notizie e la pagina Eventi).
 

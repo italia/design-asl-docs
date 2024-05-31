@@ -29,7 +29,7 @@ La pagina lista di primo livello dovrebbe presentare:
 Tipologia Come fare per
 --------------------------
 
-La tipologia “Come fare per”, descritta nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia Come fare per.
+La tipologia “Come fare per”, descritta nel Documento di architettura dell’informazione (`Versione ODS 165KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, `Versione XLSX 398KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.xlsx>`_), indica gli attributi informativi necessari e l’ordine di presentazione degli stessi per creare una pagina foglia Come fare per.
 
 Sono stati creati 2 template utili alla stesura di questi contenuti:
 

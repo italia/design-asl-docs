@@ -14,4 +14,4 @@ Il componente Header e Footer sono disponibili nella Libreria UI del modello ASL
 
 Per una corretta navigazione all'interno del sito e per fornire all'utente un'indicazione chiara di dove si trova, è importante avere delle breadcrumbs e delle URL strutturate su ogni pagina. Entrambi questi elementi devono rispecchiare la struttura del sito.
 
-Sul foglio "Sistema di navigazione" del `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, trovi le breadcrumb e le URL di esempio per ogni pagina del modello.
+Sul foglio "Sistema di navigazione" del Documento di architettura dell’informazione (`Versione ODS 165KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, `Versione XLSX 398KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.xlsx>`_), trovi le breadcrumb e le URL di esempio per ogni pagina del modello.

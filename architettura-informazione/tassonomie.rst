@@ -14,6 +14,6 @@ Le tassonomie del sito di una ASL sono:
 •	Tipi di Servizio
 
 La lista delle tassonomie è riportata nel documento di architettura, con i link alle rispettive schede di dettaglio. La matrice Tipologie/Tassonomie indica le relazioni tra le Tipologie di contenuto e le tassonomie.
-Come si può vedere sulla schede dettaglio nel `Documento di architettura dell’informazione (ODS 165KB) <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, le tassonomie presentano vari livelli di gerarchia e granularità. Nel classificare i contenuti (strutture, servizi e prestazioni, notizie, etc.) bisogna usare il maggior livello di dettaglio possibile. 
+Come si può vedere sulla schede dettaglio nel Documento di architettura dell’informazione (`Versione ODS 165KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.ods>`_, `Versione XLSX 398KB <https://designers.italia.it/files/resources/modelli/aziende-sanitarie-locali/Architettura-ModelloASL-DesignersItalia.xlsx>`_), le tassonomie presentano vari livelli di gerarchia e granularità. Nel classificare i contenuti (strutture, servizi e prestazioni, notizie, etc.) bisogna usare il maggior livello di dettaglio possibile. 
 
 Ad esempio, la pagina informativa di una prestazione come “Screening per il tumore alla mammella”, userà la tassonomia “Utenti” e in particolare la voce di secondo livello “Donne”.
